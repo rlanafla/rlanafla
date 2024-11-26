@@ -13,12 +13,14 @@
 
 #### ✶ frontend
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+</br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white)
 
 </br>
 
 #### ✶ tools
 ![dbdiagram](https://img.shields.io/badge/dbdiagram-000000?logo=database&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+</br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 
 </br>
