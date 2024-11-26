@@ -8,7 +8,7 @@
   <tr>
     <td valign="top" width="60%" align="left">
       <h3>✧ Tech Stack</h3>
-      <h4>✶ Backend</h4>
+      <h4> ✶ Backend</h4>
       <p>
         <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
       </p>
 
-      <h4>✶ Frontend</h4>
+      <h4> ✶ Frontend</h4>
       <p>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
