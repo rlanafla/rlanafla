@@ -2,13 +2,12 @@
   
 ![discord black butterfly xx](https://github.com/user-attachments/assets/e5e36620-d00c-4a44-af0c-87a9a2523cb2)
 
-### ✧ Tech Stack
 </div>
 
-<table>
+<table style="width:100%;">
   <tr>
-    <!-- 왼쪽: 기술 스택 -->
-    <td valign="top" width="70%">
+    <td valign="top" width="60%" align="left">
+      <h3>✧ Tech Stack</h3>
       <h4>✶ Backend</h4>
       <p>
         <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
@@ -39,8 +38,7 @@
       </p>
     </td>
 
-    <!-- 오른쪽: 위젯 -->
-    <td valign="top" width="30%" align="center">
+    <td valign="top" width="40%" align="center">
       <p>
         <a href="https://github.com/rlanafla/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlanafla&layout=compact" />
